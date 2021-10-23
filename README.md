@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webgrandmo
 - 👀 I’m interested in FF Development, music and sports
-- 🌱 I’m currently learning Vue.js and Express.js + MongoDb
+- 🌱 I’m currently learning Vue.js, React and Express.js + MongoDb
 - 📫 How to reach me? Just give me a shout via Skype, my id is ichmekuldurur or via mail webgrandmo@gmail.com
 
 <!---
